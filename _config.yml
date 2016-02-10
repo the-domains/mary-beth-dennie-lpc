@@ -1,8 +1,7 @@
 name: 'Mary Beth Dennie, Lpc'
 favicon: null
-layout_spectrum: 0.55524
-typography_spectrum: 0.27399
-title: 'Mary Beth Dennie, Licensed Professional Counselor'
+layout_spectrum: 0.4991648616269231
+typography_spectrum: 0.192359724547714
 cta:
   domain: null
   bucket: null
@@ -17,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#07081d'
-    - '#fbf885'
-    - '#06307c'
-    - '#fcc47c'
-    - '#1f6e8d'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9926704668905586
+  lightness: 0.9393561182077974
+  saturation: 0.9519542576745152
+  rhythmicContrast: 0.2455964160617441
 purpose: []
